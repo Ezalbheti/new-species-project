@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Your Website Title</title>
+    <title>New Species Discovered</title>
 </head>
 
 <body>
     <header>
-        <h1>Your Website Header</h1>
+        <h1> biology HL new species project </h1>
     </header>
 
     <nav>
@@ -23,14 +23,14 @@
 
     <main>
         <section>
-            <h2>Welcome to Our Website!</h2>
-            <p>This is a simple website created using HTML, CSS, and JavaScript.</p>
+            <h2>the discovery of Felis mantus</h2>
+            <p>This is a animal discovered by scientist in 2023, consist the features of a cat and a mantus</p>
         </section>
 
         <section>
             <h2>Latest News</h2>
             <article>
-                <h3>News Title 1</h3>
+                <h3>The cell structure of Felis mantus </h3>
                 <p>Content of the first news article.</p>
             </article>
             <article>
@@ -41,7 +41,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2023 Your Website. All rights reserved.</p>
+        <p>&copy; 2023 Your Website. All rights reserved.all copyright belongs to Elizabeth. P</p>
     </footer>
 
     <script src="script.js"></script>
